@@ -1,0 +1,6 @@
+{
+    "extends": "../tslint.json",
+    "rules": {
+        "no-dupliacte-variable":true,"no-unused-variable":true
+    }
+}
